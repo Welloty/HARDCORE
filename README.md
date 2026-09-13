@@ -1,2 +1,2 @@
 # HARDCORE
-A hardcore mod for Mindscape. Adds IMPOSSIBLE difficulty.
+A hardcore mod for Mindustry. Adds IMPOSSIBLE difficulty.
