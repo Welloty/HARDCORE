@@ -1,0 +1,6 @@
+name: "hardcore"
+displayName: "hardcore"
+author: "Welloty"
+description: "This mod adds a new impossible difficulty to the campaign."
+version: "0"
+minGameVersion: "159"
